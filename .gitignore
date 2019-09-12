@@ -1,0 +1,6 @@
+.idea
+*.log
+.ipynb*
+save
+__pycache__
+time.md
